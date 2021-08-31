@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @my-dev-kit
+- 👀 I’m interested in WEB Development
+- 🌱 I’m currently learning AI
